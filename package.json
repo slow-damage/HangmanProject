@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "picoprompt": "^5.0.1"
+  },
+  "name": "hangmanproject",
+  "version": "1.0.0",
+  "description": "Update me with a description of:",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
